@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Administracion-Servidor", "Proyecto Final\Administracion-Servidor.csproj", "{1D2A8FA6-E10B-4012-8974-D0294AFD9242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comisionista-Cliente", "Comisionista-Cliente\Comisionista-Cliente.csproj", "{CFD07BBF-89A3-41C5-BCAE-4846179D0AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapasdegogle", "..\..\mapas de gooogle\Nueva carpeta\Mapasdegogle\Mapasdegogle\Mapasdegogle.csproj", "{25C0C042-E0DD-494D-A18B-173FDF23134F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2A8FA6-E10B-4012-8974-D0294AFD9242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2A8FA6-E10B-4012-8974-D0294AFD9242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2A8FA6-E10B-4012-8974-D0294AFD9242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2A8FA6-E10B-4012-8974-D0294AFD9242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD07BBF-89A3-41C5-BCAE-4846179D0AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD07BBF-89A3-41C5-BCAE-4846179D0AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD07BBF-89A3-41C5-BCAE-4846179D0AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD07BBF-89A3-41C5-BCAE-4846179D0AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C0C042-E0DD-494D-A18B-173FDF23134F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C0C042-E0DD-494D-A18B-173FDF23134F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C0C042-E0DD-494D-A18B-173FDF23134F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C0C042-E0DD-494D-A18B-173FDF23134F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D389A9-5555-41ED-AA51-1E9509AD5399}
+	EndGlobalSection
+EndGlobal
